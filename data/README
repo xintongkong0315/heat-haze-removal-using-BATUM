@@ -1,0 +1,9 @@
+# Data
+
+Kodak_lighthouse.png  -  part of the Kodak dataset (see http://r0k.us/graphics/kodak/).
+Otis_door.mat         -  part of the OTIS dataset (see https://jegilles.sdsu.edu/doc/OTIS.pdf).
+
+If you use the Otis data please cite:
+     Gilles, J., Ferrante, N.B.
+     Open Turbulent Image Set (OTIS)
+     Pattern Recognition Letters, 2017, 86, pp. 38--41
