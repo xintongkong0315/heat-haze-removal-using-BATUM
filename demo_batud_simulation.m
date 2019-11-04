@@ -21,7 +21,7 @@ x = double(imread('data/Kodak_lighthouse.png')) / 255;
 sig = 1.9 / 255;
 
 % Define the Fried blur kernel
-difficulty = 'weak';
+difficulty = 'medium';
 switch difficulty
     case 'weak'
         kernel_true = fried_kernel(n1, n2, 'X', 2.25, 'V', 1.29);
