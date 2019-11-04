@@ -21,8 +21,6 @@ For any use of the Otis data cite [2].
 
 ## License
 
-This software is a computer program whose purpose is to provide a suite of tools
-to manipulate SAR images.
 This software is governed by the CeCILL license under French law and
 abiding by the rules of distribution of free software. You can use,
 modify and/ or redistribute the software under the terms of the CeCILL
